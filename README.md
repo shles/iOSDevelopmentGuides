@@ -32,8 +32,10 @@ dispatch_block_cancel(work)
 ```
 ### ARC
 
-```classes``` are involved in __ARC__(Automatic refernce counter)
+```classes``` are involved in __ARC__(Automatic refernce counter).
+
 ARC counts only __strong__ refernces to the object insntances and deallocates it, when count become zero.
+
 By default all references are __strong__
 ```Swift
 var a: A = A()
