@@ -30,3 +30,15 @@ dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(10 * NSEC_PER_SEC)), d
 
 dispatch_block_cancel(work)
 ```
+### ARC
+
+```classes``` are involved in __ARC__(Automatic refernce counter)
+ARC counts only __strong__ refernces to the object insntances and deallocates it, when count become zero.
+By default all references are __strong__
+```Swift
+var a: A = A()
+```
+To prevent counting you can use __weak__ or __unowned__ references
+
+
+
