@@ -42,5 +42,9 @@ var a: A = A()
 ```
 To prevent counting you can use __weak__ or __unowned__ references
 
+### Memory
+
+Class references stay in Run Time Stack (RTS) and their instances stay in Heap area of Memory.
+
 
 
