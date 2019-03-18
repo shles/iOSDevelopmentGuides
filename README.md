@@ -15,7 +15,7 @@ Library of useful links, tips and hacks that I use.
 
 #### Add custom fonts
 
-[Apple guide](Geometria-Bold.otf Geometria-BoldItalic.otf Geometria-ExtaBlack.otf Geometria-ExtraBlackItalic.otf Geometria-ExtraLight.otf Geometria-ExtraLightItalic.otf Geometria-Heavy.otf Geometria-HeavyItalic.otf Geometria-Italic.otf Geometria-Light.otf Geometria-LightItalic.otf Geometria-Medium.otf Geometria-MediumItalic.otf Geometria-Thin.otf Geometria-ThinItalic.otf Geometria.otf)
+[Apple guide](https://developer.apple.com/documentation/uikit/text_display_and_fonts/adding_a_custom_font_to_your_app)
 
 ## Theory
 
