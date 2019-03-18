@@ -11,6 +11,11 @@ Library of useful links, tips and hacks that I use.
 
 ##### Convert to .pem
 <code>openssl pkcs12 -in pushcert.p12 -out pushcert.pem -nodes -clcerts</code>
+### Sources
+
+#### Add custom fonts
+
+[Apple guide](Geometria-Bold.otf Geometria-BoldItalic.otf Geometria-ExtaBlack.otf Geometria-ExtraBlackItalic.otf Geometria-ExtraLight.otf Geometria-ExtraLightItalic.otf Geometria-Heavy.otf Geometria-HeavyItalic.otf Geometria-Italic.otf Geometria-Light.otf Geometria-LightItalic.otf Geometria-Medium.otf Geometria-MediumItalic.otf Geometria-Thin.otf Geometria-ThinItalic.otf Geometria.otf)
 
 ## Theory
 
